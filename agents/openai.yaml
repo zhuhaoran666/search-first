@@ -1,3 +1,3 @@
 interface:
-  display_name: "精炼想法，再检索"
-  short_description: "先精炼想法与检索问题，再查找现有方案、原始资料和可用资源并核验"
+  display_name: "精炼想法，判断检索与生成"
+  short_description: "精炼目标，判断该检索、生成或结合两者，核实所需依据并完成目标产物"
